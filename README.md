@@ -1,6 +1,4 @@
 # Sabatier_Rxn
-Investigation of Sabatier Reaction using 0D Simulation
-
 
 This project was completed for ME370A: "Energy Systems I: Thermodynamics" at Stanford University. The Cantera simulation was a joint effort between Henry Hanlon and Ivana Chen. Additional contributors to the presentation were David Wu, Yuxuan Li, Bryan Hwang and Sho Wada.
 
